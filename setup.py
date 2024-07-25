@@ -6,6 +6,6 @@ setup(
     description='A Python library for downloading images from Pinterest',
     author='Amal nath',
     author_email='your_email@example.com',
-    packages=['pinterest'],
+    packages=find_packages(),
     install_requires=['requests', 'bs4'],
 )
