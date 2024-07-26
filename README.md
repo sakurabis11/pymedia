@@ -1,6 +1,6 @@
 ## Language
 
-[![Python Version](https://img.shields.io/badge/Python-.10.8-blue)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-3.10.0-blue)](https://www.python.org/)
 
 ## Pinterest Image Downloader Package
 
