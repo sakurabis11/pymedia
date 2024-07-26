@@ -4,7 +4,7 @@ import datetime
 import r
 
 #print
-def prt(str):
+def show(str):
     print(str)
 
 #random
@@ -14,6 +14,18 @@ def Random(a,b):
 #square_root
 def sqrt(a):
     return math.sqrt(a)
+
+def add(a, b):
+    return a+b
+
+def subtract(a,b):
+    return a-b
+
+def multi(a,b):
+    return a-b
+
+def division(a,b):
+    return a-b
 
 #time
 def timedate():
