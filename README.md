@@ -24,21 +24,4 @@ url = "https://pin.it/2BojCfoIP"
 download_pin(url)
 ```
 
-**We created some other shortcut for python programming simple**
-
-## Python Function Descriptions
-
-This file provides clear and concise descriptions of the functions included in this Python module. Each function has an explanation of its purpose, parameters (inputs), and return value (output). Additionally, examples showcase how to use each function effectively.
-
-**Functions:**
-
-**1. `show(str)`**
-
-* **Purpose:** Prints a given string to the console.
-* **Parameters:**
-    * `str`: A string value to be printed.
-* **Example:**
-
-```python
-show("Hello, world!") # Output: Hello, world!
 
