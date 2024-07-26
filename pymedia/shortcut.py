@@ -4,7 +4,7 @@ import datetime
 
 #print
 def show(str):
-    print(str)
+    return print(str)
 
 #random
 def Random(a,b):
