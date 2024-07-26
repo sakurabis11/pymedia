@@ -1,7 +1,6 @@
 import random
 import math
 import datetime
-import r
 
 #print
 def show(str):
