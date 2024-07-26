@@ -40,5 +40,5 @@ This file provides clear and concise descriptions of the functions included in t
 * **Example:**
 
 ```python
-show("Hello, world!") # Output: Hello, world!```
+show("Hello, world!") # Output: Hello, world!
 
