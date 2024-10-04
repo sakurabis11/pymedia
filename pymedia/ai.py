@@ -1,8 +1,8 @@
 import google.generativeai as genai
 
 genai.configure(api_key="AIzaSyD214hhYJ-xf8rfaWX044_g1VEBQ0ua55Q")
-
-def bard_ai(prompt, safety_settings=None):
+x = "Hello how are you"
+def bard_ai(x, safety_settings=None):
   generation_config = {
     "temperature": 1.0,
     "top_p": 0.95,
